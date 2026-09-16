@@ -1,4 +1,4 @@
-# Competitor‑Cost‑Estimation
+# Crossborder‑Ops‑Toolkit
 ## Overview
 This repository contains two desktop GUI helper tools built with Python for cross‑border luxury e‑commerce daily work.
 
